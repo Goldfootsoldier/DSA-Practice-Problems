@@ -30,4 +30,5 @@ int main(){
     for(int i=0;i<strlen(letters);i++){
         printf("%c ",letters[i]);
     }
+    return 0;
 }
